@@ -4,6 +4,7 @@
 The **Sampath Food City** POS system is a simple Java-based console application designed to simulate a basic food ordering and management system. It allows both **administrators** and **customers** to interact with the system, modify the menu, and place orders. This project demonstrates core Java programming concepts such as **arrays, loops, conditional statements, user input handling, and object manipulation**.
 
 **Features & Functionality**
+
 **1. User Roles**
 - **Admin**
   - Logs in using admin credentials.
